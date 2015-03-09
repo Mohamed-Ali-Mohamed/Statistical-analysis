@@ -1,0 +1,17 @@
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Statistical analysis.exe.config
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Statistical analysis.exe
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Statistical analysis.pdb
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\Statistical analysis.csproj.GenerateResource.Cache
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\Statistical analysis.exe
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\Statistical analysis.pdb
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\StatisticalAnalysis.Form1.resources
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\StatisticalAnalysis.Properties.Resources.resources
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\Statistical analysis.csprojResolveAssemblyReference.cache
+E:\Ain shams\الفرقة الثانية\الترم الثانى\Statistical Analysis & Applications\WindowsFormsApplication2\Statistical analysis\bin\Release\Statistical analysis.exe.config
+E:\Ain shams\الفرقة الثانية\الترم الثانى\Statistical Analysis & Applications\WindowsFormsApplication2\Statistical analysis\bin\Release\Statistical analysis.exe
+E:\Ain shams\الفرقة الثانية\الترم الثانى\Statistical Analysis & Applications\WindowsFormsApplication2\Statistical analysis\bin\Release\Statistical analysis.pdb
+E:\Ain shams\الفرقة الثانية\الترم الثانى\Statistical Analysis & Applications\WindowsFormsApplication2\Statistical analysis\obj\Release\StatisticalAnalysis.Form1.resources
+E:\Ain shams\الفرقة الثانية\الترم الثانى\Statistical Analysis & Applications\WindowsFormsApplication2\Statistical analysis\obj\Release\StatisticalAnalysis.Properties.Resources.resources
+E:\Ain shams\الفرقة الثانية\الترم الثانى\Statistical Analysis & Applications\WindowsFormsApplication2\Statistical analysis\obj\Release\Statistical analysis.csproj.GenerateResource.Cache
+E:\Ain shams\الفرقة الثانية\الترم الثانى\Statistical Analysis & Applications\WindowsFormsApplication2\Statistical analysis\obj\Release\Statistical analysis.exe
+E:\Ain shams\الفرقة الثانية\الترم الثانى\Statistical Analysis & Applications\WindowsFormsApplication2\Statistical analysis\obj\Release\Statistical analysis.pdb
